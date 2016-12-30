@@ -63,13 +63,17 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 * This script was designed to extract event-related potentials from a specific EEG dataset collected in a lab I worked in.
 
-[Analysis of COGNISION(tm) Event-Related Potentials in R](https://github.com/mjtat/Plotting-event-related-potentials-in-R). * Now using Jupyter Notebooks!
+[Analysis of COGNISION(tm) Event-Related Potentials in R](https://github.com/mjtat/Plotting-event-related-potentials-in-R). 
+
+* Now using Jupyter Notebooks!
 
 [Analysis of COGNISION(tm) Event-Related Potentials in Python](https://github.com/mjtat/Plotting-Event-Related-Potentials-in-Python). 
+
 * Now using Jupyter Notebooks!
 
 ***
 ### Updated 12/30/2016
+
 * Added some R AND **Python** scripts.
 
 ### Updated 10/4/2016
