@@ -1,0 +1,8 @@
+title: Michelle Tat's GitHub Page
+description: Analytics Portfolio
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
