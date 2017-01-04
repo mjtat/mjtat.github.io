@@ -59,7 +59,7 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 * This was part of a homework assignment for John Hopkins University Coursera Course titled "R Programming". It is specifically Question 3 of Homework Assignment 3 (the final homework assignment).
 
-[Analysis of Event-Related Potentials](http://mjtat.github.io/Electroencephalography-and-event-related-potentials./)
+[Plotting of Biosemi Active-2 Event Related Potentials in R (128-Electrode EEG)](https://github.com/mjtat/Plotting-Event-Related-Potentials-using-Biosemi-Active-2-128-Electrode-System-Data)
 
 * This script was designed to extract event-related potentials from a specific EEG dataset collected in a lab I worked in.
 
