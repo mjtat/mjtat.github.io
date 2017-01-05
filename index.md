@@ -12,23 +12,13 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 ## **Links to pages with statistics completed in R and SAS**
 
-[Descriptive Statistics in R](https://mjtat.github.io/R-Examples-Descriptives/)
-
-[Descriptive Statistics in SAS](https://mjtat.github.io/SAS-Examples-Descriptives/)
-
-[Correlations in R](https://mjtat.github.io/R-Examples-Correlations/)
-
-[Between-Subjects T-tests in R](http://mjtat.github.io/R-Examples-T-Tests-Between-Subjects/)
-
-[Within-Subjects T-tests in R](https://mjtat.github.io/R-Examples-T-Tests-Between-Subjects/)
-
-[Multiple Regression in R](https://mjtat.github.io/R-Examples-Multiple-Regression/)
+[Basic Statistics in R](https://github.com/mjtat/Basic-Statistics-in-R-Tutorial)
+* Covers descriptives, t-tests, basic ANOVA, and linear regression.
 
 [Binomial Logistic Regression in R](https://mjtat.github.io/R-Examples-Logistic-Regression/)
 
 [Principal Components Analysis (PCA) in R](http://mjtat.github.io/Principal-Components-Analysis-in-R/)
 
-[One-Way Analysis of Variance in R](https://mjtat.github.io/R-Examples-OneWay_Analysis_of_Variance/)
 
 
 ## **SQL Examples**
