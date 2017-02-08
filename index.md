@@ -4,7 +4,7 @@ I am currently in the process of building out this GitHub page, so keep your eye
 
 Currently, I am working on tutorials for all the code I've written already contained in my GitHub repositories. If a link for something isn't below, I encourage you to browse my GitHub repositories (click the "View on GitHub" button above!).
 
-Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), or my [personal website](www.michelletat.com) if you would like to know more about me.
+Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), my [personal website](www.michelletat.com), or the website for Insight Health Data Science project, [Happy Helper](www.happyhelper.site), if you would like to know more about me.
 
 
 ***
