@@ -21,18 +21,6 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 
 
-## **SQL Examples**
-[Example SQL scripts](https://mjtat.github.io/SQL-Basics/)
-* These scripts were adapted to work with materials in the Coursera Course "Managing Big Data in MySQL".
-
-## LEVEL Data Analytic Bootcamp Programming Assignments
-[Pokemon Scripting Assignment in R](https://mjtat.github.io/Pokemon_Data/)
-* This homework goes over basic scripting in R using Pokemon data.
-
-[Hubway Data Part I](https://mjtat.github.io/Hubway-Data-Part-I/)
-* This homework reviews data cleaning and manipulation of the Hubway Data (a bike sharing program), as well as plotting geographic points (based on latitude and longitude) from a map derived from Google Maps.
-
-
 ## **Other Fun Stuff**
 [Physician Assessment Exercise in R](https://mjtat.github.io/Physician-Assessment-Exercise-in-R/)
 * This is a good example of basic data cleaning and organizing.
@@ -63,7 +51,6 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 ***
 ### Updated 12/30/2016
-
 * Added some R AND **Python** scripts.
 
 ### Updated 10/4/2016
