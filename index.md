@@ -8,9 +8,10 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 
 ***
-## ** Links to my Insight Project ** ##
+## ** Links to my Insight Project ** 
 
 [Model Selection for Happy Helper](https://github.com/mjtat/Happy-Helper-Model-Selection/blob/master/Model_Selection_Notebook.ipynb)
+* Covers the model selection process for the backend of Happy Helper.
 
 ## **Links to pages with statistics completed in R and SAS**
 
