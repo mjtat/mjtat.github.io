@@ -1,6 +1,6 @@
 ## **Welcome to my GitHub page.**
 
-I am currently in the process of building out this GitHub page, so keep your eyes peeled for updates! I will generally upload statistical coding examples from R and SAS, and some basic coding examples from MySQL.
+I am currently in the process of building out this GitHub page, so keep your eyes peeled for updates! I will generally upload statistical coding examples from R and Python.
 
 Currently, I am working on tutorials for all the code I've written already contained in my GitHub repositories. If a link for something isn't below, I encourage you to browse my GitHub repositories (click the "View on GitHub" button above!).
 
