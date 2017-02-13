@@ -8,20 +8,15 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 
 ***
-## ** Links to my Insight Project ** 
+## **Links to my Insight Project** 
 
-[Model Selection for Happy Helper](https://github.com/mjtat/Happy-Helper-Model-Selection/blob/master/Model_Selection_Notebook.ipynb)
-* Covers the model selection process for the backend of Happy Helper.
+[Model Selection for Happy Helper](https://github.com/mjtat/Happy-Helper)
+* Notebooks covering my development process for Happy Helper.
 
-## **Links to pages with statistics completed in R and SAS**
+## **Links to pages with statistics completed in R**
 
 [Basic Statistics in R](https://github.com/mjtat/Basic-Statistics-in-R-Tutorial)
 * Covers descriptives, t-tests, basic ANOVA, and linear regression.
-
-[Binomial Logistic Regression in R](https://mjtat.github.io/R-Examples-Logistic-Regression/)
-
-[Principal Components Analysis (PCA) in R](http://mjtat.github.io/Principal-Components-Analysis-in-R/)
-
 
 
 ## **Other Fun Stuff**
@@ -53,20 +48,5 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 * Now using Jupyter Notebooks!
 
 ***
-### Updated 12/30/2016
-* Added some R AND **Python** scripts.
-
-### Updated 10/4/2016
-* Added a few examples of basic SQL code I've picked up.
-
-### Updated 9/19/2016
-* Added fun stuff section with random projects I've worked on not associated with basic stats.
-
-### Updated 9/16/2016
-* Added page with t-test examples in R.
-
-### Updated 9/15/2016
-* Updated GitHub repository with Multiple Regression examples in R.
-
-### Update 9/13/2016
-* Updated GitHub with a repository consisting of R examples for Logistic Regression.
+### Updated 2/12/2016
+* Updated with Happy Helper Jupyter Notebooks
