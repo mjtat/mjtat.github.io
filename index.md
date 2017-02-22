@@ -8,7 +8,7 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 
 ***
-##**Links to my Insight Project** 
+##**Links to my Insight Project** ##
 
 [Model Selection for Happy Helper](https://github.com/mjtat/Happy-Helper)
 * Notebooks covering my development process for Happy Helper.
