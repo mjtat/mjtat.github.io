@@ -13,7 +13,7 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 [Happy Helper Jupyter Notebooks](https://github.com/mjtat/Happy-Helper)
 * Notebooks covering my development process for Happy Helper.
 
-## **Links to pages with statistics completed in R**
+## **Links to pages with statistics completed in R and/or Python**
 
 [Basic Statistics in R](https://github.com/mjtat/Basic-Statistics-in-R-Tutorial)
 * Covers descriptives, t-tests, basic ANOVA, and linear regression.
