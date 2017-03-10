@@ -10,7 +10,7 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 ***
 ## **Links to my Insight Project** 
 
-[Happy Helper Jupyter Notebooks](https://github.com/mjtat/Happy-Helper)
+[Happy Helper Notebook and Scripts](https://github.com/mjtat/Happy-Helper)
 * Notebooks covering my development process for Happy Helper.
 
 
