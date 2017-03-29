@@ -4,13 +4,18 @@ I am currently in the process of building out this GitHub page, so keep your eye
 
 Currently, I am working on tutorials for all the code I've written already contained in my GitHub repositories. If a link for something isn't below, I encourage you to browse my GitHub repositories (click the "View on GitHub" button above!).
 
-Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), my [personal website](www.michelletat.com), or the website for Insight Health Data Science project, [Happy Helper](www.happyhelper.site), if you would like to know more about me.
+Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), my [personal website](www.michelletat.com), or the sites for my Insight Health Data Science projects, [Happy Helper](www.happyhelper.site) and PubMed Topic Modeler, if you would like to know more about me.
 
 
 ***
-## **Links to my Insight Project** 
+## **Links to my Insight Projects** 
 
-[Happy Helper Jupyter Notebooks](https://github.com/mjtat/Happy-Helper)
+[PubMed Topic Modeler](https://github.com/mjtat/PubMed_Topic_Modeler/)
+* This project takes a keyword search for PubMed, and uses natural language processing to clean and run topic modeling on the retrieved text.
+
+* Notabably, this project was an exercise in implementing more computer science principles, such as object oriented programming, unit testing, and the use of version control in github.
+
+[Happy Helper Notebooks and Scripts](https://github.com/mjtat/Happy-Helper)
 * Notebooks covering my development process for Happy Helper.
 
 ## **Links to pages with statistics completed in R and/or Python**
