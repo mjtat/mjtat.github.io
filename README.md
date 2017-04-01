@@ -10,7 +10,7 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 ***
 ## **Links to my Insight Projects** 
 
-[PubMed Topic Modeler](https://github.com/mjtat/PubMed_Topic_Modeler/)
+[PubMed Topic Modeler](https://github.com/mjtat/PubMed-Topic-Modeler)
 * This project takes a keyword search for PubMed, and uses natural language processing to clean and run topic modeling on the retrieved text.
 
 * Notabably, this project was an exercise in implementing more computer science principles, such as object oriented programming, unit testing, and the use of version control in github.
