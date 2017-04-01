@@ -22,7 +22,7 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 * A web app came out of this where a user could input a chunk of text, and it would get classified as being similar to anxious or depressive text. Further, the user would be referred to an appropriate reddit support forum links, where the user input is matched on similarity with posts in that support forum. Check out [Happy Helper](www.happyhelper.site) for an example.
 
-* THe webapp was developed using the Flask framework, and deployed using Amazon EC2.
+* The webapp was developed using the Flask framework, and deployed using Amazon EC2.
 
 ## **Links to pages with statistics completed in R and/or Python**
 
