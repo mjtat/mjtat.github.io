@@ -15,29 +15,24 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 * Notabably, this project was an exercise in implementing more computer science principles, such as object oriented programming, unit testing, and the use of version control in github.
 
+[Happy Helper Notebooks and Scripts](https://github.com/mjtat/Happy-Helper)
+* Notebooks ands scripts covering my development process for Happy Helper. Happy Helper was my initial Insight Project that I demoed at various Boston area companies.
+
+* This project takes 90,000 reddit comments from Google BigQuery (specifically from the subreddits /r/anxiety and /r/depression), takes those comments, cleans them up, and implements a classification analysis on the text using various models (e.g., Support Vector Machines, Naive Bayes)
+
+* A web app came out of this where a user could input a chunk of text, and it would get classified as being similar to anxious or depressive text. Further, the user would be referred to an appropriate reddit support forum links, where the user input is matched on similarity with posts in that support forum. Check out [Happy Helper](www.happyhelper.site) for an example.
+
+* The webapp was developed using the Flask framework, and deployed using Amazon EC2.
 
 ## **Links to pages with statistics completed in R and/or Python**
 
 [Basic Statistics in R](https://github.com/mjtat/Basic-Statistics-in-R-Tutorial)
 * Covers descriptives, t-tests, basic ANOVA, and linear regression.
 
-[Binomial Logistic Regression in R](https://mjtat.github.io/R-Examples-Logistic-Regression/)
-
-[Principal Components Analysis (PCA) in R](http://mjtat.github.io/Principal-Components-Analysis-in-R/)
-
-
 
 ## **Other Fun Stuff**
 [Physician Assessment Exercise in R](https://mjtat.github.io/Physician-Assessment-Exercise-in-R/)
 * This is a good example of basic data cleaning and organizing.
-
-[Coursera R Programming Assignment, Homework 3 Question 1](https://mjtat.github.io/Coursera-Programming-Assignment-Homework-3-Question-1/)
-
-* This was part of a homework assignment for John Hopkins University Coursera Course titled "R Programming". It is specifically Question 1 of Homework Assignment 3 (the final homework assignment).
-
-[Coursera R Programming Assignment, Homework 3 Question 2](https://mjtat.github.io/Coursera-Programming-Assignment-Homework-3-Question-2/)
-
-* This was part of a homework assignment for John Hopkins University Coursera Course titled "R Programming". It is specifically Question 2 of Homework Assignment 3 (the final homework assignment).
 
 [Coursera R Programming Assignment, Homework 3 Question 3]( https://mjtat.github.io/Coursera-Programming-Assignment-Homework-3-Question-3/)
 
@@ -56,20 +51,5 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 * Now using Jupyter Notebooks!
 
 ***
-### Updated 12/30/2016
-* Added some R AND **Python** scripts.
-
-### Updated 10/4/2016
-* Added a few examples of basic SQL code I've picked up.
-
-### Updated 9/19/2016
-* Added fun stuff section with random projects I've worked on not associated with basic stats.
-
-### Updated 9/16/2016
-* Added page with t-test examples in R.
-
-### Updated 9/15/2016
-* Updated GitHub repository with Multiple Regression examples in R.
-
-### Update 9/13/2016
-* Updated GitHub with a repository consisting of R examples for Logistic Regression.
+### Updated 4/1/2017
+* Added new Insight project, PubMed Topic Modeler.
