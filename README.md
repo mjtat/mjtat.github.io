@@ -1,10 +1,10 @@
 ## **Welcome to my GitHub page.**
 
-I am currently in the process of building out this GitHub page, so keep your eyes peeled for updates! I will generally upload statistical coding examples from R and Python.
+I am currently in the process of building out this GitHub page, so keep your eyes peeled for updates!
 
-Currently, I am working on tutorials for all the code I've written already contained in my GitHub repositories. If a link for something isn't below, I encourage you to browse my GitHub repositories (click the "View on GitHub" button above!).
+Currently, I am working on tutorials for all the code I've written already contained in my GitHub repositories. If a link for something isn't below, I encourage you to browse my GitHub repositories (click the "View on GitHub" button above!, or click [here](https://github.com/mjtat)).
 
-Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), or the sites for my Insight Health Data Science projects, [Happy Helper](www.happyhelper.site) and [PubMed Topic Modeler](https://github.com/mjtat/PubMed-Topic-Modeler), if you would like to know more about me. I also have a [blog](https://medium.com/towards-data-science/seeing-the-random-forest-from-the-decision-trees-an-intuitive-explanation-of-random-forest-beaa2d6a0d80), where I recently wrote a introductory tutorial on Random Forest in R. Feel free to check it out!
+Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), or the sites for my Insight Health Data Science projects, [Happy Helper](http://www.happyhelper.site) and [PubMed Topic Modeler](https://github.com/mjtat/PubMed-Topic-Modeler), if you would like to know more about me. I also have a [blog](https://medium.com/towards-data-science/seeing-the-random-forest-from-the-decision-trees-an-intuitive-explanation-of-random-forest-beaa2d6a0d80), where I recently wrote a introductory tutorial on Random Forest in R. Feel free to check it out!
 
 
 ***
@@ -24,19 +24,12 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 
 * The webapp was developed using the Flask framework, and deployed using Amazon EC2.
 
-## **Links to pages with statistics completed in R and/or Python**
-
-[Basic Statistics in R](https://github.com/mjtat/Basic-Statistics-in-R-Tutorial)
-* Covers descriptives, t-tests, basic ANOVA, and linear regression.
-
-
 ## **Other Fun Stuff**
-[Physician Assessment Exercise in R](https://mjtat.github.io/Physician-Assessment-Exercise-in-R/)
-* This is a good example of basic data cleaning and organizing.
+[Boston 311 Request RShiny Example Dashboard](https://github.com/mjtat/Boston_311_Dashboard)
+* This was an exploratory project, where I learned to put together a basic dashboard in RShiny, using the Boston 311 Requests dataset.
 
-[Coursera R Programming Assignment, Homework 3 Question 3]( https://mjtat.github.io/Coursera-Programming-Assignment-Homework-3-Question-3/)
-
-* This was part of a homework assignment for John Hopkins University Coursera Course titled "R Programming". It is specifically Question 3 of Homework Assignment 3 (the final homework assignment).
+[Transgender Natural Language Project](https://github.com/mjtat/Trans-NLP-Project)
+* This is an ongoing project where I use natural language processing (e.g.,frequency analyses, document classification, word embeddings) to examine the concerns of the transgender community. [You can read more about it on my blog](https://medium.com/towards-data-science/nlp-for-the-lgbtqia-community-a-primer-on-natural-language-processing-part-1-7f0ffd1bb54d). This project was written in Python.
 
 [Plotting of Biosemi Active-2 Event Related Potentials in R (128-Electrode EEG)](https://github.com/mjtat/Plotting-Event-Related-Potentials-using-Biosemi-Active-2-128-Electrode-System-Data)
 
@@ -51,5 +44,5 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 * Now using Jupyter Notebooks!
 
 ***
-### Updated 4/1/2017
-* Added new Insight project, PubMed Topic Modeler.
+### Updated 5/12/2017
+* Added links to repos for the Boston 311 dashboard, transgender NLP project, and removed some older repos from the listing.
