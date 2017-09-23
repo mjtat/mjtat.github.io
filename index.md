@@ -1,10 +1,15 @@
-## **Welcome to my GitHub page.**
+## Welcome!
 
-I am currently in the process of building out this GitHub page, so keep your eyes peeled for updates!
+Hello! Thanks for visiting my webpage. My name is Michelle Tat, and I am currently a principal data scientist at the City of Boston. I encourage you to browse my GitHub repositories (click the "View on GitHub" button above!, or click [here](https://github.com/mjtat)). I've started to do a few fun things lately, which include:
 
-Currently, I am working on tutorials for all the code I've written already contained in my GitHub repositories. If a link for something isn't below, I encourage you to browse my GitHub repositories (click the "View on GitHub" button above!, or click [here](https://github.com/mjtat)).
+* A script exploring cryptocurrency forecasting (with the use of autoregressive models)
+* A module that will allow individuals to easily access Boston 311 data for analysis
 
-Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), or the sites for my Insight Health Data Science projects, [Happy Helper](http://www.happyhelper.site) and [PubMed Topic Modeler](https://github.com/mjtat/PubMed-Topic-Modeler), if you would like to know more about me. I also have a [blog](https://medium.com/towards-data-science/seeing-the-random-forest-from-the-decision-trees-an-intuitive-explanation-of-random-forest-beaa2d6a0d80), where I recently wrote a introductory tutorial on Random Forest in R. Feel free to check it out!
+Feel free to visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-175542117), or the sites for my Insight Health Data Science projects, [Happy Helper](http://www.happyhelper.site) and [PubMed Topic Modeler](https://github.com/mjtat/PubMed-Topic-Modeler), if you would like to know more about me. 
+
+Any and all work related code can be seen at [the City of Boston Github](https://github.com/cityofboston). Unfortunately, many of the analytics and data science projects I am working on are under private repos. They will become public as our team progresses to completing those projects.
+
+I also have a [blog](https://medium.com/towards-data-science/seeing-the-random-forest-from-the-decision-trees-an-intuitive-explanation-of-random-forest-beaa2d6a0d80), where I recently wrote a introductory tutorial on Random Forest in R. Feel free to check it out!
 
 
 ***
@@ -31,18 +36,7 @@ Please visit [my LinkedIn profile](https://www.linkedin.com/in/michelle-tat-1755
 [Transgender Natural Language Project](https://github.com/mjtat/Trans-NLP-Project)
 * This is an ongoing project where I use natural language processing (e.g.,frequency analyses, document classification, word embeddings) to examine the concerns of the transgender community. [You can read more about it on my blog](https://medium.com/towards-data-science/nlp-for-the-lgbtqia-community-a-primer-on-natural-language-processing-part-1-7f0ffd1bb54d). This project was written in Python.
 
-[Plotting of Biosemi Active-2 Event Related Potentials in R (128-Electrode EEG)](https://github.com/mjtat/Plotting-Event-Related-Potentials-using-Biosemi-Active-2-128-Electrode-System-Data)
-
-* This script was designed to extract event-related potentials from a specific EEG dataset collected in a lab I worked in.
-
-[Analysis of COGNISION(tm) Event-Related Potentials in R](https://github.com/mjtat/Plotting-event-related-potentials-in-R). 
-
-* Now using Jupyter Notebooks!
-
-[Analysis of COGNISION(tm) Event-Related Potentials in Python](https://github.com/mjtat/Plotting-Event-Related-Potentials-in-Python). 
-
-* Now using Jupyter Notebooks!
 
 ***
-### Updated 5/12/2017
-* Added links to repos for the Boston 311 dashboard, transgender NLP project, and removed some older repos from the listing.
+### Updated 9/23/2017
+* Cleaned up webpage and personal repos.
